@@ -1,0 +1,9 @@
+#root {
+  background: #0702a3;
+  background: linear-gradient(
+    187deg,
+    rgba(7, 2, 163, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
