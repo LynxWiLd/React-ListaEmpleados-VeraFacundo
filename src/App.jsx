@@ -1,11 +1,7 @@
-import EmpleadoList from './components/EmpleadoList'
+import EmpleadoList from "./components/EmpleadoList";
 
 function App() {
-
-  return (
-    <EmpleadoList></EmpleadoList>
-  )
-  
+  return <EmpleadoList></EmpleadoList>;
 }
 
-export default App
+export default App;
